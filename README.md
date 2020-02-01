@@ -1,2 +1,2 @@
-# npm_basic_publish_0259
-How to publish a Node package
+# npm_publish_sample
+This document helps to learn how to publish to npm

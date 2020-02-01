@@ -1,0 +1,24 @@
+{
+  "name": "npm_basic_publish_0259",
+  "version": "1.0.0",
+  "description": "This document helps to learn how to publish to npm",
+  "main": "addition.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skankara/npm_basic_publish_0259.git"
+  },
+  "author": "skankara <skankara0259@gmail.com> (https://cloudroomanalytics.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skankara/npm_basic_publish_0259/issues"
+  },
+  "homepage": "https://github.com/skankara/npm_basic_publish_0259#readme"
+}
